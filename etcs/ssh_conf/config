@@ -1,0 +1,11 @@
+Host  wxy_phpfog
+HostName git01.phpfog.com
+User git
+PreferredAuthentications publickey
+IdentityFile ~/.ssh/wxy_phpfog
+
+Host  divein_github
+HostName github.com
+User git
+PreferredAuthentications publickey
+IdentityFile ~/.ssh/divein_github
