@@ -1,12 +1,12 @@
-Èç¹ûÒªĞèÒª¹ÜÀí¶à¸öpublic key ÕËºÅ
+å¦‚æœè¦éœ€è¦ç®¡ç†å¤šä¸ªpublic key è´¦å·
 
-ÔÚ C:\Documents and Settings\Administrator\.ssh Ä¿Â¼ÏÂ½¨Á¢¸öconfig ÎÄ¼ş
+åœ¨ C:\Documents and Settings\Administrator\.ssh ç›®å½•ä¸‹å»ºç«‹ä¸ªconfig æ–‡ä»¶
 
-È»ºóÉú³ÉÓò±ğÃûµÄÄÚÈİ
+ç„¶åç”ŸæˆåŸŸåˆ«åçš„å†…å®¹
 
-key-gen -t rsa -C "²âÊÔ" -f wxys_phpfog
+key-gen -t rsa -C "æµ‹è¯•" -f wxys_phpfog
 
-È»ºó½¨Á¢¸öconfÎÄ¼ş£¬ÄÚÈİÈçÏÂ
+ç„¶åå»ºç«‹ä¸ªconfæ–‡ä»¶ï¼Œå†…å®¹å¦‚ä¸‹
 
 Host  wxy_phpfog
 HostName git01.phpfog.com
@@ -22,5 +22,5 @@ IdentityFile ~/.ssh/divein_github
 
 
 
-È»ºóĞŞ¸Ägit url ÈçÏÂ
-git clone git@{Õâ¿éÌæ»»ÎªHostÄÚÈİ}:divein/priv_rep.git
+ç„¶åä¿®æ”¹git url å¦‚ä¸‹
+git clone git@{è¿™å—æ›¿æ¢ä¸ºHostå†…å®¹}:divein/priv_rep.git
